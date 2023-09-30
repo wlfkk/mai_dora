@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys
-sys.path.append('/path/to/unitree_legged_sdk-3.3.2/build') # Edit the path to "build" folder on your computer
+sys.path.append('home/dora/mai_dora/build') # Edit the path to "build" folder on your computer
 
 import robot_interface_high_level as robot_interface
 
