@@ -32,7 +32,7 @@ python3 Robot_Python.py
 # С++
 ```bash
 cd build
-sudo example_dance
+sudo ./example_dance
 ```
 
 
