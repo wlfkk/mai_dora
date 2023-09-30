@@ -24,7 +24,7 @@ make
 ```
 
 ### Использование
-# Pythpn
+# Python
 ```bash
 cd scripts
 python3 Robot_Python.py
