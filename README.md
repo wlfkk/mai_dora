@@ -1,4 +1,4 @@
-#Схема соединения
+### Схема соединения
 
 ![dora](https://github.com/wlfkk/mai_dora/assets/109107727/5134f79a-312f-4443-a839-7a1efb2b69cc)
 
