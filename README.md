@@ -1,3 +1,6 @@
+#Схема соединения
+
+![dora](https://github.com/wlfkk/mai_dora/assets/109107727/5134f79a-312f-4443-a839-7a1efb2b69cc)
 
 ### Зависимости
 * [Boost](http://www.boost.org) (version 1.5.4 or higher)
@@ -14,6 +17,7 @@ make
 sudo make install
 cd ..
 cd lcm-python
+
 sudo python3 setup.py install
 cd ..
 cd ..
